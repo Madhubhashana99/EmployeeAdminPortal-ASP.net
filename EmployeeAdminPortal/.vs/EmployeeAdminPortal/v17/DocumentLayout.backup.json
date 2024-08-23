@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|e:\\my projects\\employeeadminportal-asp.net\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|e:\\my projects\\employeeadminportal-asp.net\\employeeadminportal\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|solutionrelative:dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|e:\\my projects\\employeeadminportal-asp.net\\employeeadminportal\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|solutionrelative:domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|e:\\my projects\\employeeadminportal-asp.net\\employeeadminportal\\employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6718D02-20A3-4E3A-8841-DF6581CA0AC2}|EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:15:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\DTO\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "DTO\\UpdateEmployeeDto.cs",
+              "ToolTip": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\DTO\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "DTO\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:32:31.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Employee.cs",
+              "ToolTip": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\Domain\\Employee.cs",
+              "RelativeToolTip": "Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:30:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAdminPortal",
+              "DocumentMoniker": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.csproj",
+              "ToolTip": "E:\\My projects\\EmployeeAdminPortal-ASP.net\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T05:19:04.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
